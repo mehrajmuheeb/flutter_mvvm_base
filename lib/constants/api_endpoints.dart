@@ -1,4 +1,4 @@
 class Endpoints {
-  static const BASE_URL = "https://dev.fastbeetle.com/v2/api/";
+  static const BASE_URL = "/root";
   static const LOGIN = "login";
 }
